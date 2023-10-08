@@ -1,0 +1,13 @@
+{
+  "name": "STMicroelectronics - ST25R3916 (SPI)",
+  "apiVersion": "1.0.0",
+  "author": "Benjamin Delpy (@gentilkiwi)",
+  "version": "1.0.0",
+  "description": "High Level Analyzer for STMicroelectronics ST25R3916 NFC chip on SPI bus",
+  "extensions": {
+    "STMicroelectronics - ST25R3916 (SPI)": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "st_st25r3916.Hla"
+    }
+  }
+}
